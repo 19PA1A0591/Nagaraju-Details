@@ -1,0 +1,45 @@
+body{
+  text-align:justify;
+  background: linear-gradient(blue,red);
+
+  color:white;
+
+}
+h1 {
+  color:yellow;
+  font-size:200px;
+  text-align: center;
+  text-shadow:5px 5px  black;
+}
+h1:hover{
+  background:linear-gradient(red,blue);
+  color:white;
+  border-radius:30%;
+}
+img {
+
+  height:1000px;
+
+}
+
+.nagaraju:hover{
+  background:radial-gradient(green,#FF67E7);
+  color:white;
+}
+#nagu:hover{
+  background:linear-gradient(green,#FF67E7);
+  color:white;
+
+}
+a {
+  color:black;
+  font-size:20px;
+}
+div {
+
+  color:white;
+  text-shadow:1px 1px 1px red;
+  width:36pc;
+  box-shadow: 5px 5px 5px white;
+
+}
